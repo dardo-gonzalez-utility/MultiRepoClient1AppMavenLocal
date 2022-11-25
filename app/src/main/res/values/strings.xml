@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiRepoClient1AppMavenLocal</string>
+    <string name="title">MultiRepoClient1App MavenLocal with Closet Library</string>
+    <string name="greetings">This is an XML Layout App</string>
+</resources>
